@@ -2,8 +2,8 @@
 <Defs>
 	<EnemyShipDef>
 		<defName>Shuttle</defName>
-		<label>[INSERT IN-GAME NAME HERE]</label>
-		<combatPoints>0</combatPoints>
+		<label>Shuttle</label>
+		<combatPoints>200</combatPoints>
 		<cargoValue>0</cargoValue>
 		<parts>
 			<li>

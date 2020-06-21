@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>40kShips</name>
+	<author>QG's Community</author>
+	<supportedVersions>
+	  <li>1.1</li>
+	</supportedVersions>
+	<packageId>QG.40kShips</packageId>
+	<description>Adds a few ships based on Warhammer 40k to the list of enemy ships for Save Our Ship 2.</description>
+</ModMetaData>

@@ -11,5 +11,5 @@ Contributors :
 
 - QuarantineGames (Shuttle)
 - Nylux (Thunderbolt)
-- You ?
+- You ? Head to the Wiki section to learn how ! (https://github.com/Nylux/Warhammer-40k-Ship-Pack/wiki/Wiki)
 

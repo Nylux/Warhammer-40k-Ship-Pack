@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 	<EnemyShipDef>
-		<defName>Unnamed Ship</defName>
+		<defName>Thunderbolt</defName>
 		<label>Thunderbolt Heavy Fighter</label>
 		<combatPoints>400</combatPoints>
 		<cargoValue>0</cargoValue>
@@ -64,28 +64,6 @@
 				<rot>1</rot>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Corner_OneTwo</shapeOrDef>
-				<x>-2</x>
-				<z>3</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneTwoFlip</shapeOrDef>
-				<x>2</x>
-				<z>4</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
-				<x>-3</x>
-				<z>1</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
-				<x>3</x>
-				<z>1</z>
-				<rot>2</rot>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>-2</x>
 				<z>2</z>
@@ -101,38 +79,6 @@
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<z>1</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpoint</shapeOrDef>
-				<x>-5</x>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpoint</shapeOrDef>
-				<x>4</x>
-			</li>
-			<li>
-				<shapeOrDef>Turret_Autocannon</shapeOrDef>
-				<x>4</x>
-			</li>
-			<li>
-				<shapeOrDef>Turret_Autocannon</shapeOrDef>
-				<x>-5</x>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpoint</shapeOrDef>
-				<x>-2</x>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpoint</shapeOrDef>
-				<x>1</x>
-			</li>
-			<li>
-				<shapeOrDef>ShipTurret_Kinetic</shapeOrDef>
-				<x>1</x>
-			</li>
-			<li>
-				<shapeOrDef>ShipTurret_Kinetic</shapeOrDef>
-				<x>-2</x>
 			</li>
 			<li>
 				<shapeOrDef>Turret_MiniTurret</shapeOrDef>
@@ -192,30 +138,6 @@
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>5</x>
 				<z>-1</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Reactor</shapeOrDef>
-				<z>-4</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsinkAdv</shapeOrDef>
-				<x>3</x>
-				<z>-4</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsinkAdv</shapeOrDef>
-				<x>3</x>
-				<z>-6</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsinkAdv</shapeOrDef>
-				<x>-4</x>
-				<z>-6</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsinkAdv</shapeOrDef>
-				<x>-4</x>
-				<z>-4</z>
 			</li>
 			<li>
 				<shapeOrDef>FirefoamPopper</shapeOrDef>
@@ -411,16 +333,6 @@
 				<z>-13</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
-				<x>-10</x>
-				<z>-3</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipTurret_Plasma</shapeOrDef>
-				<x>-13</x>
-				<z>-3</z>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>-13</x>
 				<z>-1</z>
@@ -552,24 +464,6 @@
 				<rot>3</rot>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
-				<x>-13</x>
-				<z>-5</z>
-				<rot>3</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
-				<x>-10</x>
-				<z>-6</z>
-				<rot>3</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
-				<x>-7</x>
-				<z>-7</z>
-				<rot>3</rot>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>-11</x>
 				<z>-5</z>
@@ -613,21 +507,6 @@
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>-6</x>
 				<z>-6</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
-				<x>-6</x>
-				<z>-9</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Engine</shapeOrDef>
-				<x>-4</x>
-				<z>-9</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Engine</shapeOrDef>
-				<x>4</x>
-				<z>-9</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipAirlock</shapeOrDef>
@@ -914,16 +793,6 @@
 				<z>-10</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
-				<x>9</x>
-				<z>-3</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipTurret_Plasma</shapeOrDef>
-				<x>12</x>
-				<z>-3</z>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>6</x>
 				<z>-1</z>
@@ -997,24 +866,6 @@
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>14</x>
 				<z>-4</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
-				<x>7</x>
-				<z>-7</z>
-				<rot>3</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
-				<x>10</x>
-				<z>-6</z>
-				<rot>3</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
-				<x>13</x>
-				<z>-5</z>
-				<rot>3</rot>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
@@ -1180,10 +1031,6 @@
 				<z>-16</z>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Engine</shapeOrDef>
-				<z>-18</z>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>-3</x>
 				<z>-17</z>
@@ -1214,24 +1061,6 @@
 				<z>-17</z>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
-				<x>3</x>
-				<z>-18</z>
-				<rot>3</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
-				<x>6</x>
-				<z>-9</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
-				<x>-3</x>
-				<z>-18</z>
-				<rot>3</rot>
-			</li>
-			<li>
 				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
 				<x>-4</x>
 				<z>-16</z>
@@ -1252,36 +1081,6 @@
 				<stuff>Plasteel</stuff>
 				<x>4</x>
 				<z>-16</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpoint</shapeOrDef>
-				<x>-17</x>
-				<z>-2</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpoint</shapeOrDef>
-				<x>16</x>
-				<z>-2</z>
-			</li>
-			<li>
-				<shapeOrDef>Turret_Autocannon</shapeOrDef>
-				<x>-17</x>
-				<z>-2</z>
-			</li>
-			<li>
-				<shapeOrDef>Turret_Autocannon</shapeOrDef>
-				<x>16</x>
-				<z>-2</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
-				<x>-7</x>
-				<z>-4</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
-				<x>6</x>
-				<z>-4</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
@@ -1349,6 +1148,207 @@
 				<x>5</x>
 				<z>-17</z>
 				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneTwo</shapeOrDef>
+				<x>-2</x>
+				<z>3</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneTwoFlip</shapeOrDef>
+				<x>2</x>
+				<z>4</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpoint</shapeOrDef>
+				<x>-5</x>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpoint</shapeOrDef>
+				<x>4</x>
+			</li>
+			<li>
+				<shapeOrDef>Turret_Autocannon</shapeOrDef>
+				<x>4</x>
+			</li>
+			<li>
+				<shapeOrDef>Turret_Autocannon</shapeOrDef>
+				<x>-5</x>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpoint</shapeOrDef>
+				<x>-2</x>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpoint</shapeOrDef>
+				<x>1</x>
+			</li>
+			<li>
+				<shapeOrDef>ShipTurret_Kinetic</shapeOrDef>
+				<x>1</x>
+			</li>
+			<li>
+				<shapeOrDef>ShipTurret_Kinetic</shapeOrDef>
+				<x>-2</x>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsinkAdv</shapeOrDef>
+				<x>3</x>
+				<z>-4</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsinkAdv</shapeOrDef>
+				<x>3</x>
+				<z>-6</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsinkAdv</shapeOrDef>
+				<x>-4</x>
+				<z>-6</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsinkAdv</shapeOrDef>
+				<x>-4</x>
+				<z>-4</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
+				<x>-10</x>
+				<z>-3</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTurret_Plasma</shapeOrDef>
+				<x>-13</x>
+				<z>-3</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
+				<x>9</x>
+				<z>-3</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTurret_Plasma</shapeOrDef>
+				<x>12</x>
+				<z>-3</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpoint</shapeOrDef>
+				<x>-17</x>
+				<z>-2</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpoint</shapeOrDef>
+				<x>16</x>
+				<z>-2</z>
+			</li>
+			<li>
+				<shapeOrDef>Turret_Autocannon</shapeOrDef>
+				<x>-17</x>
+				<z>-2</z>
+			</li>
+			<li>
+				<shapeOrDef>Turret_Autocannon</shapeOrDef>
+				<x>16</x>
+				<z>-2</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
+				<x>-7</x>
+				<z>-4</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
+				<x>6</x>
+				<z>-4</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
+				<x>-3</x>
+				<z>1</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
+				<x>3</x>
+				<z>1</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
+				<x>-13</x>
+				<z>-5</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
+				<x>-10</x>
+				<z>-6</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
+				<x>-7</x>
+				<z>-7</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
+				<x>-6</x>
+				<z>-9</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
+				<x>7</x>
+				<z>-7</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
+				<x>10</x>
+				<z>-6</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
+				<x>13</x>
+				<z>-5</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
+				<x>3</x>
+				<z>-18</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
+				<x>6</x>
+				<z>-9</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
+				<x>-3</x>
+				<z>-18</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Engine</shapeOrDef>
+				<x>-4</x>
+				<z>-9</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Engine</shapeOrDef>
+				<x>4</x>
+				<z>-9</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Engine</shapeOrDef>
+				<z>-18</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Reactor</shapeOrDef>
+				<z>-4</z>
 			</li>
 		</parts>
 		<core>

@@ -7,4 +7,31 @@
 	</supportedVersions>
 	<packageId>QG.40kShips</packageId>
 	<description>Adds a few ships based on Warhammer 40k to the list of enemy ships for Save Our Ship 2.</description>
+	<modDependencies>
+		<li>
+			<packageId>kentington.saveourship2</packageId>
+			<displayName>Save Our Ship 2</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1909914131</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>Storm.SoS2Ex</packageId>
+			<displayName>Save Our Ship 2 - Extensions</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2125698178</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>QX.AstraMilitarum</packageId>
+			<displayName>Astra Militarum Imperial Guard Core Mod v2.06</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=771341092</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>QX.AstraMilitarum.Factions</packageId>
+			<displayName>Astra Militarum Imperial Guard Factions Mod v2.0</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=790224614</steamWorkshopUrl>
+		</li>
+	</modDependencies>	
+	<loadAfter>
+		<li>erdelf.HumanoidAlienRaces</li>
+		<li>killface.facialstuff</li>
+		<li>ChJees.Androids</li>
+	</loadAfter>
 </ModMetaData>

@@ -30,8 +30,9 @@
 		</li>
 	</modDependencies>	
 	<loadAfter>
-		<li>erdelf.HumanoidAlienRaces</li>
-		<li>killface.facialstuff</li>
-		<li>ChJees.Androids</li>
+		<li>kentington.saveourship2</li>
+		<li>Storm.SoS2Ex</li>
+		<li>QX.AstraMilitarum</li>
+		<li>QX.AstraMilitarum.Factions</li>
 	</loadAfter>
 </ModMetaData>

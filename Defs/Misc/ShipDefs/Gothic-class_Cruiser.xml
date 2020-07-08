@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 	<EnemyShipDef>
 		<defName>Gothic-class Cruiser</defName>
@@ -33167,6 +33167,37 @@
 				<z>8</z>
 			</li>
 			<li>
+				<shapeOrDef>Ship_Beam_HeavyPow</shapeOrDef>
+				<stuff>Steel</stuff>
+				<x>-27</x>
+				<z>-23</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_HeavyPow</shapeOrDef>
+				<stuff>Steel</stuff>
+				<x>2</x>
+				<z>-23</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_HeavyPow</shapeOrDef>
+				<stuff>Steel</stuff>
+				<x>-3</x>
+				<z>-34</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_HeavyPow</shapeOrDef>
+				<stuff>Steel</stuff>
+				<x>-22</x>
+				<z>-34</z>
+			</li>
+			<li>
+				<width>5</width>
+				<height>7</height>
+				<shapeOrDef>Cargo</shapeOrDef>
+				<x>-36</x>
+				<z>-28</z>
+			</li>
+			<li>
 				<shapeOrDef>Shelf</shapeOrDef>
 				<stuff>Steel</stuff>
 				<x>-17</x>
@@ -36140,37 +36171,6 @@
 				<shapeOrDef>ShipTorpedoSix</shapeOrDef>
 				<x>-8</x>
 				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_HeavyPow</shapeOrDef>
-				<stuff>Steel</stuff>
-				<x>-27</x>
-				<z>-23</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_HeavyPow</shapeOrDef>
-				<stuff>Steel</stuff>
-				<x>2</x>
-				<z>-23</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_HeavyPow</shapeOrDef>
-				<stuff>Steel</stuff>
-				<x>-3</x>
-				<z>-34</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_HeavyPow</shapeOrDef>
-				<stuff>Steel</stuff>
-				<x>-22</x>
-				<z>-34</z>
-			</li>
-			<li>
-				<width>5</width>
-				<height>7</height>
-				<shapeOrDef>Cargo</shapeOrDef>
-				<x>-36</x>
-				<z>-28</z>
 			</li>
 			<li>
 				<shapeOrDef>MetalTile</shapeOrDef>

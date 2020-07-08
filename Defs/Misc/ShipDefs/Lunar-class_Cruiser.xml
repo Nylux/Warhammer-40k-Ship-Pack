@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 	<EnemyShipDef>
 		<defName>Lunar-class Cruiser</defName>
@@ -34688,6 +34688,16 @@
 				<rot>2</rot>
 			</li>
 			<li>
+				<shapeOrDef>ShipSpinalBarrelPlasma</shapeOrDef>
+				<x>-38</x>
+				<z>-10</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipSpinalBarrelPlasma</shapeOrDef>
+				<x>-43</x>
+				<z>-18</z>
+			</li>
+			<li>
 				<shapeOrDef>Ship_Reactor</shapeOrDef>
 				<x>-24</x>
 				<z>-37</z>
@@ -34776,16 +34786,6 @@
 				<shapeOrDef>ShipTorpedoSix</shapeOrDef>
 				<x>-9</x>
 				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipSpinalBarrelPlasma</shapeOrDef>
-				<x>-38</x>
-				<z>-10</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipSpinalBarrelPlasma</shapeOrDef>
-				<x>-43</x>
-				<z>-18</z>
 			</li>
 			<li>
 				<shapeOrDef>MetalTile</shapeOrDef>

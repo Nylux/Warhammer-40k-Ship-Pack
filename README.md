@@ -9,7 +9,7 @@ This mod requires the following mods to work properly :
 
 Contributors :
 
-- QuarantineGames (Shuttle)
+- QuarantineGames (Shuttle & Infidel)
 - Nylux (Thunderbolt)
 - Alias Maxime (Lunar-Class Cruiser & Gothic-Class Cruiser)
 - You ? Head to the Wiki section to learn how ! (https://github.com/Nylux/Warhammer-40k-Ship-Pack/wiki/Wiki)
